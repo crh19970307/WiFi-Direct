@@ -9,7 +9,6 @@ Our main contribution:
   * The application is cross platform. It supports *android* and *Windows UWP*.
   * The application has Group Send function. 
   * The transfer speed is more than **3 MB/s**.
-  * The maximum transfer distance is **280 m**.
 
 ## Explanation
 
