@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</Source>
+    <SmallTileSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</SmallTileSource>
+    <MediumTileSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</MediumTileSource>
+    <WideTileSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</WideTileSource>
+    <LargeTileSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</LargeTileSource>
+    <AppIconSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</AppIconSource>
+    <SplashScreenSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</SplashScreenSource>
+    <BadgeLogoSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</BadgeLogoSource>
+    <PackageLogoSource>G:\学习资料\_正在学\计算机网络\WifiDirect-vs2017\Samples\WiFiDirect\cs\Assets\squareTile-sdk.scale-100.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
