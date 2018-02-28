@@ -18,6 +18,17 @@ The folder *PC* contains the source code of Windows UWP.
 
 *report.pdf* is the final report and *slide.ppt* is the introduction of our project.
 
----
+## Contributor
 
-If you have questions or ideas, just create an issue. Ackonwledegment for my teammates [Weichao Mao](https://github.com/xizeroplus), [Yunyan Hong]() and [Yining Hong]() .
+[Weichao Mao](https://github.com/xizeroplus)
+
+[Yunyan Hong]()
+
+[Yining Hong]() 
+
+[Ruiheng Chang](https://github.com/crh19970307)
+
+
+------
+
+If you have questions or ideas, just create an issue. 
