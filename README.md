@@ -22,7 +22,7 @@ The folder *PC* contains the source code of Windows UWP.
 
 [Weichao Mao](https://github.com/xizeroplus)
 
-[Yunyan Hong]()
+[Yunyan Hong](https://github.com/hongyunyan)
 
 [Yining Hong]() 
 
