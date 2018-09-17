@@ -1,14 +1,9 @@
-# Wifi-Direct
+# WiFi-Direct File Transfer
 
 ## Summary
 
-This is my course project of Computer Network. We develop a cross platform file transfer application based on Wifi Direct. 
+In this project, we developed a cross-platform (Android / PC) file transfer application based on WiFi-Direct protocols. This app enables peer-to-peer and group file transfer without the existence of an intermediate wireless access point (AP), and is 10 times faster than the actual transfer speed of Bluetooth 4.0. The Android part of this app is built upon Android WiFi P2P APIs, which are supported by Android 4.0 (API level 14) or later devices. The PC part relies on the Universal Windows Platform (UWP) framework and only works on Windows 10. WiFi-Direct inherently supports WPA2 security protocol, and its speed can be as high as 250 Mbps in theory. In our experiment of sending video files and random bit streams of 500MB in size, we have witnessed a typical transfer speed of more than 3MB/s.
 
-Our main contribution:
-
-  * The application is cross platform. It supports *android* and *Windows UWP*.
-  * The application has Group Send function. 
-  * The transfer speed is more than **3 MB/s**.
 
 ## Explanation
 
@@ -24,7 +19,7 @@ The folder *PC* contains the source code of Windows UWP.
 
 [Yunyan Hong](https://github.com/hongyunyan)
 
-[Yining Hong]() 
+[Yining Hong](https://github.com/evelinehong) 
 
 [Ruiheng Chang](https://github.com/crh19970307)
 
